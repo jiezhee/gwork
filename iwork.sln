@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iwork", "iwork\iwork.csproj", "{5E45800B-51EE-46CF-8CD4-FC02EC4D921D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstallDB", "InstallDB\InstallDB.csproj", "{E11E9E11-89ED-4B69-9EF9-C14997AE3AED}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Gwork-管理系统", "Gwork-管理系统\Gwork-管理系统.vdproj", "{DC0D9219-9F23-4D2A-B768-06560AACD4C2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Gwork-管理系统（客户端）", "Gwork-管理系统（客户端）\Gwork-管理系统（客户端）.vdproj", "{D713515A-0CC3-4E89-A18B-079521FEBF0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E45800B-51EE-46CF-8CD4-FC02EC4D921D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{5E45800B-51EE-46CF-8CD4-FC02EC4D921D}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{5E45800B-51EE-46CF-8CD4-FC02EC4D921D}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{5E45800B-51EE-46CF-8CD4-FC02EC4D921D}.Debug|x86.ActiveCfg = Debug|x86
+		{5E45800B-51EE-46CF-8CD4-FC02EC4D921D}.Debug|x86.Build.0 = Debug|x86
+		{5E45800B-51EE-46CF-8CD4-FC02EC4D921D}.Release|Any CPU.ActiveCfg = Release|x86
+		{5E45800B-51EE-46CF-8CD4-FC02EC4D921D}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{5E45800B-51EE-46CF-8CD4-FC02EC4D921D}.Release|Mixed Platforms.Build.0 = Release|x86
+		{5E45800B-51EE-46CF-8CD4-FC02EC4D921D}.Release|x86.ActiveCfg = Release|x86
+		{5E45800B-51EE-46CF-8CD4-FC02EC4D921D}.Release|x86.Build.0 = Release|x86
+		{E11E9E11-89ED-4B69-9EF9-C14997AE3AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E11E9E11-89ED-4B69-9EF9-C14997AE3AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E11E9E11-89ED-4B69-9EF9-C14997AE3AED}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{E11E9E11-89ED-4B69-9EF9-C14997AE3AED}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{E11E9E11-89ED-4B69-9EF9-C14997AE3AED}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E11E9E11-89ED-4B69-9EF9-C14997AE3AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E11E9E11-89ED-4B69-9EF9-C14997AE3AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E11E9E11-89ED-4B69-9EF9-C14997AE3AED}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{E11E9E11-89ED-4B69-9EF9-C14997AE3AED}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{E11E9E11-89ED-4B69-9EF9-C14997AE3AED}.Release|x86.ActiveCfg = Release|Any CPU
+		{DC0D9219-9F23-4D2A-B768-06560AACD4C2}.Debug|Any CPU.ActiveCfg = Debug
+		{DC0D9219-9F23-4D2A-B768-06560AACD4C2}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{DC0D9219-9F23-4D2A-B768-06560AACD4C2}.Debug|x86.ActiveCfg = Debug
+		{DC0D9219-9F23-4D2A-B768-06560AACD4C2}.Release|Any CPU.ActiveCfg = Release
+		{DC0D9219-9F23-4D2A-B768-06560AACD4C2}.Release|Mixed Platforms.ActiveCfg = Release
+		{DC0D9219-9F23-4D2A-B768-06560AACD4C2}.Release|x86.ActiveCfg = Release
+		{D713515A-0CC3-4E89-A18B-079521FEBF0D}.Debug|Any CPU.ActiveCfg = Debug
+		{D713515A-0CC3-4E89-A18B-079521FEBF0D}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{D713515A-0CC3-4E89-A18B-079521FEBF0D}.Debug|x86.ActiveCfg = Debug
+		{D713515A-0CC3-4E89-A18B-079521FEBF0D}.Release|Any CPU.ActiveCfg = Release
+		{D713515A-0CC3-4E89-A18B-079521FEBF0D}.Release|Mixed Platforms.ActiveCfg = Release
+		{D713515A-0CC3-4E89-A18B-079521FEBF0D}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
